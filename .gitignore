@@ -1,16 +1,21 @@
 # Build outputs
+bin/
 obj/
 publish/
+out/
 
-# Visual Studio / VS Code
+# IDE / editor settings
 .vs/
 .vscode/
+.idea/
+*.code-workspace
+
+# Visual Studio user files
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
 *.rsuser
-*.code-workspace
 
 # NuGet / package caches
 packages/
