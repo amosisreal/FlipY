@@ -1,5 +1,4 @@
 # Build outputs
-bin/
 obj/
 publish/
 
@@ -11,6 +10,7 @@ publish/
 *.userosscache
 *.sln.docstates
 *.rsuser
+*.code-workspace
 
 # NuGet / package caches
 packages/
@@ -26,6 +26,5 @@ packages/
 Thumbs.db
 
 # Optional: ignore generated deployment artifacts
-*.exe
 *.dll
 *.pdb
