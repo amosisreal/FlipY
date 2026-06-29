@@ -33,3 +33,7 @@ Thumbs.db
 # Optional: ignore generated deployment artifacts
 *.dll
 *.pdb
+
+
+# Python
+make_icon.py
